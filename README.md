@@ -1,6 +1,6 @@
 # Grafana
 
-This is a group of Prometheus & Grafana Docker files with versions for HyperFrame Open Edition.
+This is a group of Grafana Docker files with versions for HyperFrame Open Edition.
 
 ### Prerequisites
 
