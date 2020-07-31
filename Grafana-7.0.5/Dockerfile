@@ -1,8 +1,6 @@
 FROM centos:7
 # version 20.0
 
-#MAINTAINER MW2-1@tmax.co.kr
-
 #0) Set SOURCE_PATH and GRAFANA_PATH/VERSION
 ENV SOURCE_PATH /usr/local/src
 ENV GRAFANA_FOLDER grafana-7.0.5-1.x86_64
