@@ -1,4 +1,4 @@
-# Grafana
+# HyperFrameOE-Grafana
 
 This is a group of Grafana Docker files with versions for HyperFrame Open Edition.
 
